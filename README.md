@@ -1,2 +1,3 @@
-# hwmodule-tf2oda-nvidia
-Inference of Tensorflow 2 Object Detection API models on NVIDIA devices like Jetson Nano, TX2 and Xavier 
+# Execution of TF2 Object Detection API Models on NVIVIDA Devices
+
+Important notice: The scripts in this repository have not been adapted and tested yet.
